@@ -1,6 +1,6 @@
 {
   "name": "ejs-compiled-loader",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "EJS webpack loader (without frontend dependencies)",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bazilio91/ejs-compiled-loader.git"
+    "url": "https://github.com/dubdubdubdotcom/ejs-compiled-loader.git"
   },
   "keywords": [
     "ejs",
@@ -25,7 +25,7 @@
   "dependencies": {
     "ejs": "^2.0.0",
     "html-minifier": "^3",
-    "loader-utils": "^0.2.7",
+    "loader-utils": "^1.1.0",
     "merge": "^1.2.0",
     "uglify-js": "~2.6.1"
   },
